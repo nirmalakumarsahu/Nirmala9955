@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Nirmala9955
+- 👋 Hi, I’m Nirmala Kumar Sahu
 - 👀 I’m interested in Java
-- 🌱 I’m currently learning Spring Boot   
+- 🌱 I’m currently working as Java developer   
 - 💞️ I’m looking to collaborate on Java
 - 📫 How to reach me 
       Email: nirmalakumarsahu7@gmail.com
